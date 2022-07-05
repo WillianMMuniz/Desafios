@@ -1,0 +1,15 @@
+O git estava apresentado problemas como o "remote: Permission denied to" então tive que remover todas as credenciais 
+do git na minha maquina (windows 11) pelo seguinte caminho 
+"Painel de Controle\Contas de Usuário\Gerenciador de Credenciais". 
+Após efetuar a remoção das credenciais efetuei novamente as configurações
+
+Git config --global user.email <seu email>
+git config --global user.name <seu nome>
+
+Depois utilizei os comando do git 
+
+add .
+commit -m
+push origin main
+
+fonte: https://www.schoolofnet.com/forum/topico/git-push-remote-permission-denied-to-2650
