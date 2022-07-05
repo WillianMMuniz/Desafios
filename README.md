@@ -1,2 +1,2 @@
 # Desafios
-projetos onde terão pequenos projetos
+ onde terão pequenos projetos e pequenas descrições em texto.
