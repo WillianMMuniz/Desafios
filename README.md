@@ -1,2 +1,2 @@
 # Desafios
-projetos onde terão pequenos projetos
+Repositório onde terão pequenos projetos
